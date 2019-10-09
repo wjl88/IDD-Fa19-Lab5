@@ -1,6 +1,6 @@
 # IDD-Fa19-Lab5
 
-[Video of Box in a Box]()
+[Video of Box in a Box](https://youtu.be/lfqHp2G4mcA)
 
 
 ```
